@@ -18,3 +18,7 @@ A simple weather application built with Python that retrieves real-time weather 
 3. Add your API key (from: https://openweathermap.org/api)
 4. run the app
 
+## Screenshots
+
+![Weather App Screenshot](Screenshot1.png)
+![Weather App Screenshot](Screenshot2.png)
