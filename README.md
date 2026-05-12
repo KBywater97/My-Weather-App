@@ -20,5 +20,4 @@ A simple weather application built with Python that retrieves real-time weather 
 
 ## Screenshots
 
-![Weather App Screenshot](Screenshot1.png.jpeg)
-![Weather App Screenshot](Screenshot2.png.jpeg)
+![Weather App Screenshot](screenshot-1778553832053.png)
